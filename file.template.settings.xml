@@ -2,6 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Demolog.py" reformat="true" live-template-enabled="true" />
+      <template name="Python_NVH.java" reformat="true" live-template-enabled="true" />
     </default_templates>
     <internal_templates>
       <template name="Python Script.py" reformat="true" live-template-enabled="true" enabled="true" />
