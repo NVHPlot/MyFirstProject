@@ -1,15 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547032784077">
+      <file name="/Dummy.txt" timestamp="1548078106543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1548077533055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Python/second.py" timestamp="1548077660394" />
+      <file name="D:/Python/second.py" timestamp="1548078634976" />
+      <file name="/Clipboard.txt" timestamp="1548078606486">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
