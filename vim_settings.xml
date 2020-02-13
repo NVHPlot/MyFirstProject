@@ -1,42 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1548078106543">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1548077533055">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Python/second.py" timestamp="1548078634976" />
-      <file name="/Clipboard.txt" timestamp="1548078606486">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgRGVsZURpcnMgKCBjb3VkaXIgKQogICAgICAgICAgICAgICAgIyBvcy5jaGRpcihjb3VkaXIpCiAgICAgICAgICAgICAgICAjIGZsb2EgPSBvcGVuICggJ2xvYWQuYmRmJywgInciICkKICAgICAgICAgICAgICAgICMgZnN1YiA9IG9wZW4gKCAnc3ViY2FzZS5iZGYnLCAndycgKQogICAgICAgICAgICAgICAgIyBmc2V0ID0gb3BlbiAoICdzZXQuYmRmJywgJ3cnICkK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgRGVsZURpcnMgKCBjb3VkaXIgKQogICAgICAgICAgICAgICAgIyBvcy5jaGRpcihjb3VkaXIpCiAgICAgICAgICAgICAgICAjIGZsb2EgPSBvcGVuICggJ2xvYWQuYmRmJywgInciICkKICAgICAgICAgICAgICAgICMgZnN1YiA9IG9wZW4gKCAnc3ViY2FzZS5iZGYnLCAndycgKQogICAgICAgICAgICAgICAgIyBmc2V0ID0gb3BlbiAoICdzZXQuYmRmJywgJ3cnICkK</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
