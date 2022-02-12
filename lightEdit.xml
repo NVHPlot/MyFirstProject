@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://D:/MSC_TRAINING/Adams/Stress/R/new 1.py" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -12,6 +17,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="85" y="25" width="1750" height="980" />
     </option>
   </component>
 </application>
